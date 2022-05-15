@@ -1,0 +1,53 @@
+DM Sans",sans-serif
+font weight 700
+
+
+    <header>
+        <div>
+            <div>
+                <section>
+                    <div class="nav-position">
+                        <div class="nav-logo">
+                            <a href="instagram.com">
+                                <span>
+                                    <img src="images/logoNavBar.webp" alt="">
+                                </span>
+                            </a>
+                        </div>
+                        <div>
+                            <ul class="ul-display">
+                                <li class="nav-li-position">
+                                    <a href="instagram.com">Home</a>
+                                </li>
+                                <li class="nav-li-position>
+                                    <a href="#!">Tentang </a>
+                                    <div></div>
+                                </li>
+                                <li class="nav-li-position>
+                                    <a href="#!">Tentang </a>
+                                    <div></div>
+                                </li>
+                                <li class="nav-li-position>
+                                    <a href="#!">Tentang </a>
+                                    <div></div>
+                                </li>
+                                <li class="nav-li-position>
+                                    <a href="#!">Tentang </a>
+                                    <div></div>
+                                </li>
+                                <li class="nav-li-position>
+                                    <a href="#!">Tentang </a>
+                                    <div></div>
+                                </li>
+                                <li class="nav-li-position>
+                                    <a href="#!">Tentang </a>
+                                    <div></div>
+                                </li>
+                            </ul>
+                        </div>
+                        <div></div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </header>
